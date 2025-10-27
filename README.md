@@ -1,4 +1,7 @@
 # Adidas-Sales-Analysis-Report-in-Power-BI
+<img width="914" height="505" alt="image" src="https://github.com/user-attachments/assets/62723960-905b-4c34-9b76-c1c96c34eaab" />
+
+
 This Power BI project aims to help Adidas make better business decisions by using sales data in a smart way.
 The main goal is to find useful insights that can help the company grow and stay competitive in the sports and athletic industry.
 The dashboard helps Adidas understand how their sales are performing across different regions, products, and time periods.
